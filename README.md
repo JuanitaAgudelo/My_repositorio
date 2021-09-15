@@ -10,7 +10,7 @@ En honor a la primer programadora de la historia, Ada Lovelace, le dimos nombre 
 <br>
 <br>
 <center> <i>:rocket: Hola! Mi nombre es Juanita Agudelo, soy estudiante del programa MisionTi: 1.000.194.995
-<br> Instituto de Física - Pregrado de Astronomía
+<br> 👋 Instituto de Física - Pregrado de Astronomía
 <br> Analítica de Datos
 <br> Fecha de entrega: 4 de mayo de 2021
 </i> </center>
