@@ -9,7 +9,7 @@ En honor a la primer programadora de la historia, Ada Lovelace, le dimos nombre 
   </h5> </center>
 <br>
 <br>
-<p style="color:red;">Red paragraph text</p>
+<span style="color:blue">Texto *rojo cursiva* normal</span>
 <center> <i>👋 Hola! Mi nombre es Juanita Agudelo, soy estudiante del programa MisionTic 2022 y 
 <br> 👋 Hola! Soy Germán...
 <br> 👋 Sebastian...
