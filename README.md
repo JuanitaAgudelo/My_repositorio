@@ -1,4 +1,4 @@
-<p><img height="290px" src="https://github.com/JuanitaAgudelo/My_repositorio/blob/main/ada_lovelace_flat_design.jpg" align="left" hspace="10px" vspace="10px"></p>
+<p><img height="310px" src="https://github.com/JuanitaAgudelo/My_repositorio/blob/main/ada_lovelace_flat_design.jpg" align="left" hspace="10px" vspace="0px"></p>
 <br>
 <br>
 <center> <h1> <b> Bienvenido al repositorio del equipo Ada Dev Team </b> </h1>
