@@ -1,4 +1,4 @@
-<p><img height="150px" src="https://github.com/JuanitaAgudelo/My_repositorio/blob/main/60a549515b6df__800x578.jpg" align="left" hspace="10px" vspace="0px"></p>
+<p><img height="180px" src="https://github.com/JuanitaAgudelo/My_repositorio/blob/main/60a549515b6df__800x578.jpg" align="left" hspace="10px" vspace="0px"></p>
 <br>
 <br>
 <center> <h1> <b> Bienvenido al repositorio del equipo Ada Dev Team </b> </h1>
@@ -9,7 +9,6 @@ En honor a la primer programadora de la historia, Ada Lovelace, le dimos nombre 
   </h5> </center>
 <br>
 <br>
-<span style="color:blue">Texto *rojo cursiva* normal</span>
 <center> <i>👋 Hola! Mi nombre es Juanita Agudelo, soy estudiante del programa MisionTic 2022 y 
 <br> 👋 Hola! Soy Germán...
 <br> 👋 Sebastian...
