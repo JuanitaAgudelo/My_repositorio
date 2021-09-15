@@ -6,6 +6,8 @@
   <br>
 En honor a la primer programadora de la historia, Ada Lovelace, le dimos nombre a nuestro equipo formado por 5 programadores entusiastas del mundo del desarrollo y apasionados por la programación. Somos 5 estudiantes enfocados en el aprendizaje constante y autónomo, ......  
   <br>
+  <br>
+  <br>
   </h5> </center>
 <br>
 <br>
