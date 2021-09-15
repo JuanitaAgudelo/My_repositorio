@@ -3,7 +3,10 @@
 <br>
 <center> <h1> <b> Bienvenido al repositorio del equipo Ada Dev Team </b> </h1>
 <h4> Este es un repositorio creado para administrar los proyectos creados por el equipo Ada Dev Team.
-En honor a la primer programadora de la historia, Ada Lovelace, le dimos nombre a nuestro equipo formado por 5 programadores entusiastas del mundo del desarrollo y apasionados por la programación. Somos 5 estudiantes enfocados en el aprendizaje constante y autónomo, ......  </h4> </center>
+  <br>
+En honor a la primer programadora de la historia, Ada Lovelace, le dimos nombre a nuestro equipo formado por 5 programadores entusiastas del mundo del desarrollo y apasionados por la programación. Somos 5 estudiantes enfocados en el aprendizaje constante y autónomo, ......  
+  <br>
+  </h4> </center>
 <br>
 <br>
 <center> <i>:rocket: Hola! Mi nombre es Juanita Agudelo, soy estudiante del programa MisionTi: 1.000.194.995
